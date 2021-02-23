@@ -1,0 +1,13 @@
+{
+    "files.autoSave": "afterDelay",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "settingsSync.ignoredExtensions": [
+    
+    ],
+    "settingsSync.ignoredSettings": [
+    
+    ],
+    "workbench.settings.editor": "json",
+}
