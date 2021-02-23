@@ -1,0 +1,2 @@
+# public_vscode_settings
+公開用vscodeの設定ファイル
