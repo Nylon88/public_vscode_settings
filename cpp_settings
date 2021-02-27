@@ -1,0 +1,8 @@
+  {
+      "code-runner.executorMap": {
+          "cpp": "cd $dir && runFiles=`ls *.cpp` && g++ -std=c++11 `echo ${runFiles}` -o $fileNameWithoutExt && $dir$fileNameWithoutExt",
+      },
+      "clang.cxxflags": [
+          "-std=c++17"
+      ]
+ }
